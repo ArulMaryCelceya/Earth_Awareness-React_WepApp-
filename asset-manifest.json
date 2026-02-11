@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Earth_Awareness-React_WepApp-/static/css/main.a299ecc3.css",
+    "main.js": "/Earth_Awareness-React_WepApp-/static/js/main.92358761.js",
+    "static/js/453.e12552bd.chunk.js": "/Earth_Awareness-React_WepApp-/static/js/453.e12552bd.chunk.js",
+    "index.html": "/Earth_Awareness-React_WepApp-/index.html",
+    "main.a299ecc3.css.map": "/Earth_Awareness-React_WepApp-/static/css/main.a299ecc3.css.map",
+    "main.92358761.js.map": "/Earth_Awareness-React_WepApp-/static/js/main.92358761.js.map",
+    "453.e12552bd.chunk.js.map": "/Earth_Awareness-React_WepApp-/static/js/453.e12552bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a299ecc3.css",
+    "static/js/main.92358761.js"
+  ]
+}
